@@ -1,4 +1,4 @@
-# wireshark-capturas
+# Capturas Wireshark
 #  Análises de Tráfego - Wireshark
 
 Este diretório contém capturas de tráfego de rede realizadas como parte de projetos acadêmicos do curso de **Defesa Cibernética** na Universidade Estácio de Sá.  
