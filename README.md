@@ -49,7 +49,7 @@ Os arquivos podem ser abertos no **Wireshark** (versão 4.x ou superior).
 ---
 
 ##  Ferramentas Utilizadas
-- **Wireshark 4.x**
+- **Wireshark**
 - Windows 11
 - Linux Ubuntu/Debian (para simulação de tráfego e captura)
 
